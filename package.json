@@ -1,0 +1,13 @@
+{
+  "name": "create-video-hosting",
+  "version": "1.0.0",
+  "description": "CREATE - Видео хостинг платформа",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server --port=3000",
+    "build": "echo 'No build process needed'"
+  },
+  "keywords": ["video", "hosting", "youtube", "supabase"],
+  "author": "Your Name",
+  "license": "MIT"
+}
